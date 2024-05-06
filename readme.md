@@ -1,3 +1,5 @@
+<img src="Git-logo.svg_.png" width="700" height="300">
+
 ### GitHubin ohjeet:
 - Git peruskomennot:
 > ## git add 
